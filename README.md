@@ -10,3 +10,10 @@ que luego fuesen transmitidos a la API de Cayenne My Devices y monitoreados.
 Además contempla la conexión de una electroválvula que permitiese la automatización del riego.
 
 El ESP8266 fue programado con el IDE de Arduino.
+
+
+Presentado en julio del 2018.
+.
+.
+.
+By Mariana Márquez Azuaje (marmarquez).
